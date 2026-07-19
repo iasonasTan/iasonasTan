@@ -1,5 +1,19 @@
 # 💫 About Me:
-**I'm working with Java, Rust, C, D and C++.<br>I'm making Android Apps, Desktop Apps(Swing, AWT and JavaFX) and Games(JWJGL, jMonkeyEngine and LibGDX).<br>I also make Websites and Server-Side stuff.**
+
+**I'm working with Java, Rust, Clang, Dlang, JavaScript and C++.<br>**
+
+I'm making *Android*:
+1. Apps with **java**: `Android API`
+2. Games with **java**: `LibGDX`
+
+
+I'm making *Desktop*:
+1. Servers with **java**: `java.net`
+2. Games with **java**, **Dlang**: `LibGDX`, `jMonkeyEngine`, `Raylib`
+3. Apps with **java**, **Dlang**: `JavaFX`, `Java AWT`, `dlangui`
+
+I'm making *Web Stuff*:
+1. Apps **HTML**, **CSS**, **JavaScript**
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iasonas_tan) 
