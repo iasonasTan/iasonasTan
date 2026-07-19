@@ -1,8 +1,7 @@
 # 💫 About Me:
-I'm working with Java, Rust, C, D and C++.<br>I'm making Android Apps, Desktop Apps(Swing, AWT and JavaFX) and Games(JWJGL, jMonkeyEngine and LibGDX).<br>I also make Websites and Server-Side stuff.
+**I'm working with Java, Rust, C, D and C++.<br>I'm making Android Apps, Desktop Apps(Swing, AWT and JavaFX) and Games(JWJGL, jMonkeyEngine and LibGDX).<br>I also make Websites and Server-Side stuff.**
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iasonas_tan) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iasonas_tan) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://gr.pinterest.com/iasonastan/) 
