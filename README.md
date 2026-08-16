@@ -39,6 +39,8 @@ I'm making *Web Stuff*:
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
+![GitHub Streak](./profile/streak.svg)
+
 <!-- # 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=iasonasTan&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=iasonasTan&theme=default&hide_border=false)<br/> -->
