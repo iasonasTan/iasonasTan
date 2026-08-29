@@ -18,7 +18,7 @@ jobs:
       - name: GitHub Readme Streak Stats Action
         uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
-          options: user=${{ github.repository_owner }}
+          options: 'user=${{ github.repository_owner }}&theme=github-dark'
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
